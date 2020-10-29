@@ -9,4 +9,4 @@
   - git commit -m "init"
   - git push origin master
 - 发布文档: npm run doc:deploy
-- 访问在线文档: https://zxfjd3g.github.io/xxx_ts_study/ (可能要等待一定的时间)
+- 访问在线文档: https://wangwei-cloud.github.io/TS-study/ (可能要等待一定的时间)
